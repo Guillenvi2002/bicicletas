@@ -5,3 +5,7 @@ body{
 html{
     color: black;
 }
+
+h1{
+    font-style: italic;	
+}
